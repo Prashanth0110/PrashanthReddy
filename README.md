@@ -1,6 +1,6 @@
 - Hi, I’m Prashanth Reddy
 - I’m interested in doing App Designing Projects.
-- I’m currently learning AWS Cloud.
+- I’m currently learning AWS Cloud and Devops.
 - Familiar in Web Designing Projects.
 - Reach me at: prashanthreddy1416@gmail.com -
 - Phone:+91 9390301416. 
